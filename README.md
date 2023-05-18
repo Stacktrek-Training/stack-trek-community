@@ -9,7 +9,7 @@ To get started with Stack-hr & Stack-expense, follow these steps:
 
 📔 Prerequisites
 
-✔️--PostgreSQL
+✔️--PHP
 ✔️--Express
 ✔️--React
 ✔️--Node
