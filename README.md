@@ -1,18 +1,15 @@
 # stack-trek-community
-☕Stack-hr & Stack-expense
-💡Human Resource (HR) refer to the people who make up the workforce of an organization or company.
-
-💡Expense refers to the cost incurred by an organization or individual in the process of generating revenue or achieving a specific objective. It can include various items such as salaries, rent, utilities, office supplies, travel expenses, marketing costs, and more.
+☕Stack-Trek-Community
+💡Community - refer are groups of individuals or organizations that actively engage in activities aimed at making a positive impact on a particular community or society as a whole. These communities typically focus on addressing various social, economic, or environmental challenges and strive to create a better future for everyone involved.
 
 Getting Started
-To get started with Stack-hr & Stack-expense, follow these steps:
+To get started with Stack-Trek-Community, follow these steps:
 
 📔 Prerequisites
 
 ✔️--PHP
-✔️--Express
-✔️--React
-✔️--Node
+✔️--SQL
+✔️--Javascript
 ✔️--Git
 
 Installation
@@ -21,17 +18,20 @@ Installation
 
 Clone the repository using git clone https://github.com/your-username/your-project-name.git
 
-Navigate to the project directory example: cd your-project-name
+Install XAMPP: Download and install XAMPP from the Apache Friends website (https://www.apachefriends.org). Choose the appropriate version for your operating system.
 
-Run 'npm install' to install the dependencies
+Start Apache server: Once XAMPP is installed, open the control panel and start the Apache server by clicking on the "Start" button next to "Apache."
 
-Run 'npm start' to start the application
+Locate the htdocs folder: The htdocs folder is the default directory where you can place your PHP files. By default, it is located in the XAMPP installation directory. For example, in Windows, the path could be "C:\xampp\htdocs"
+
+Access the PHP file in a browser: Open your web browser and enter the following URL: "http://localhost/filename.php" (replace "filename.php" with the actual name of your PHP file). This will run the PHP file, and the output will be displayed in the browser.
+
+
 
 Usage
 
-✳️ Employee Management:Add,edit and delete employees, view employee details and search employees
-✳️ Expense Management: Add, edit and delete expenses, view expense details and search for expenses
-✳️ Report Generation: Generate reports on employee data and expenses
+✳️ Trek-Community-System:add,edit,read and delete Blog post, add comment on the post and user can able to donate.
+
 
 ✍️ Contributing
 
@@ -59,4 +59,4 @@ Step 5: Click the 3(three) dots above the click Push
 Check you github if there's an update. If none, try to Pull then Push again...
 
 
-🎉 Happy Coding!
+🎉 Happy Coding and May The Light Guid Your Hope!
