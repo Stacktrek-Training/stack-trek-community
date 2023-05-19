@@ -1,5 +1,5 @@
 # stack-trek-community
-☕Stack-Trek-Community
+🍺Stack-Trek-Community
 💡Community - refer are groups of individuals or organizations that actively engage in activities aimed at making a positive impact on a particular community or society as a whole. These communities typically focus on addressing various social, economic, or environmental challenges and strive to create a better future for everyone involved.
 
 Getting Started
@@ -30,7 +30,7 @@ Access the PHP file in a browser: Open your web browser and enter the following 
 
 Usage
 
-✳️ Trek-Community-System:add,edit,read and delete Blog post, add comment on the post and user can able to donate.
+✳️ Trek-Community System: Add,Edit,Read and Delete Blog post,can add comment on the post and user can able to donate.
 
 
 ✍️ Contributing
