@@ -11,6 +11,8 @@ To get started with Stack-Trek-Community, follow these steps:
 ✔️--SQL
 ✔️--Javascript
 ✔️--Git
+✔️--Html
+✔️--Css
 
 Installation
 
